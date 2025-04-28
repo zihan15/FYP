@@ -1,6 +1,10 @@
 # FYP
 Extracting Scene Intrinsics with LoRA Experimentation on Stable Diffusion Models
 
+# Report
+
+Report can be found on https://dr.ntu.edu.sg/handle/10356/184071
+
 # Data preprocessing notebook 
 - contains script for generating the diode_meta.json file for parsing data in training phase. In our case we have the ground truth with accompanying depth and normal maps from Diode-dataset.
 - Code for visualising predicted images
